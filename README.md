@@ -73,6 +73,13 @@ EduHub/<br>
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
 ## License
 
 This project is licensed under the [MIT](/LICENSE) License.
